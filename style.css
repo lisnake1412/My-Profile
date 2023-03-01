@@ -1,0 +1,45 @@
+
+	body{font-family: Roboto;
+    background-color:#fafafa;
+    background-image: url('IMG/5.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    
+    }
+
+    ul
+    {
+        list-style-type: none;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333333;
+        background-size: cover;
+        background-attachment: fixed;
+        border-radius: 2px;
+    }
+
+    li a
+    {
+        float: right;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 20px;
+        text-decoration: none;
+        border-radius: 2px;
+    }
+
+    li a:hover
+    {
+        background-color: #222222;
+        
+    }
+    p
+    {
+        color: white;
+    }
+    .name
+    {
+        font-size: 30px;
+
+    }
